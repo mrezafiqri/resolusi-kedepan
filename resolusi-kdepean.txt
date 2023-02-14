@@ -1,4 +1,6 @@
 RESOLUSI
-- Memperkuat Fundamentl HTML, CSS, dan JavaScript
+- Memperkuat Fundamental HTML, CSS, dan JavaScript
 - Konsisten Belajar Bahasa Pemrograman Baru
 - Membuat Portofolio
+- Membuat Website Front-End
+- Membuat CV Pekerjaan
