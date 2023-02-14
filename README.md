@@ -1,2 +1,2 @@
 # resolusi-kedepan
-Repositori unntuk menyimpan rencan kedepannya.
+Repositori untuk menyimpan rencana kedepannya.
